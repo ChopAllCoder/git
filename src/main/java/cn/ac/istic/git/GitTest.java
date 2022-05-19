@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hot fix 第四次修改测试");
         System.out.println("master 第一次改");
         System.out.println("hot fix 第四次修改测试第二次提交");
+        System.out.println("从github上直接拉取到idea中，看看行不行。这是再GitHub里直接写的")
     }
 
 }
