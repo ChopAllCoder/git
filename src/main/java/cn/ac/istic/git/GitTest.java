@@ -9,6 +9,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hello Git ! meng");
         System.out.println("Hello Git ! M 第二次修改");
+        System.out.println("第三次修改了");
     }
 
 }
