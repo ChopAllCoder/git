@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("第三次修改了");
         System.out.println("hot fix 第四次修改测试");
         System.out.println("master 第一次改");
+        System.out.println("hot fix 第四次修改测试第二次提交");
     }
 
 }
